@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.hisabkhata.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>হিসাবের খাতা</name>
+    <description>ব্যক্তিগত জমা-খরচের হিসাব রাখার অ্যাপ</description>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon.png" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+</widget>
