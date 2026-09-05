@@ -1,0 +1,11 @@
+{
+  "name": "hisab-khata-app",
+  "version": "1.0.0",
+  "displayName": "হিসাবের খাতা",
+  "description": "ব্যক্তিগত জমা-খরচের হিসাব রাখার অ্যাপ",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
